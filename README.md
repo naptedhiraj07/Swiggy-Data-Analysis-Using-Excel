@@ -1,8 +1,10 @@
-Swiggy Data Analysis Dashboard 📊
-Project Overview
+Swiggy Data Analysis Dashboard 📊:
+
+Project Overview :
 This project involves a comprehensive analysis of Swiggy's sales and performance data using Microsoft Excel. The goal was to transform raw data into an interactive dashboard that provides actionable insights into sales trends, customer behavior, and geographic performance. The analysis covers a total sales volume of ₹53.01M across 197.43K orders.
 
-Key Objectives
+Key Objectives:
+
 Trend Analysis: Tracking Monthly, Weekly, and Daily sales patterns to identify peak performance periods.
 
 Geographic Insights: Visualizing sales distribution across different Indian states and identifying the top-performing cities.
@@ -13,7 +15,8 @@ Operational Metrics: Monitoring the average order value and rating counts to gau
 
 Interactive Filtering: Utilizing slicers for "Order Date," "Category," and "Restaurant" to allow for granular data exploration.
 
-Tools & Techniques Used
+Tools & Techniques Used :
+
 Microsoft Excel: The primary tool for data processing and visualization.
 
 Pivot Tables & Power Pivot: Used for data aggregation and creating complex relationships between data points.

@@ -33,7 +33,8 @@ Slicers & Timelines: Integrated to make the dashboard dynamic and user-friendly.
 
 Conditional Formatting: Applied in the Quaterly summary table for better readability.
 
-Key Insights & Conclusion
+Key Insights & Conclusion :
+
 Top Performance: Bengaluru emerged as the leading city by sales, contributing significantly to the total revenue.
 
 Consumer Behavior: Veg items (65%) dominate the order volume compared to Non-Veg items (35%).
